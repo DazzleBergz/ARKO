@@ -1,0 +1,197 @@
+#include <ArduinoJson.h>
+#include <TinyGPS++.h>
+#include <Servo.h>
+
+#define Engine_Pin 24
+#define Light_Pin 25
+
+const byte M1RPWM = 8;
+const byte M1LPWM = 9;
+const byte M2RPWM = 10;
+const byte M2LPWM = 11;
+const byte SERVO_PIN = 7;
+const byte VOLTAGE_SENSOR = A7; 
+
+bool isEngine = true;
+bool isLights = true;
+byte verticalDrive = 0;
+byte horizontalDrive = 0;
+String bufferCommand = "";
+String movement = "ahead";
+byte speed = 0;
+int offset = 20;
+int pos = 180;
+int step = -1; 
+
+unsigned long prevServoMillis = 0;
+const long SERVO_INTERVAL = 50;
+
+TinyGPSPlus gps;
+Servo irServo;
+
+void setup()
+{
+  Serial.begin(115200);
+
+  pinMode(Engine_Pin, OUTPUT);
+  pinMode(Light_Pin, OUTPUT);
+  pinMode(M1RPWM, OUTPUT);
+  pinMode(M1LPWM, OUTPUT);
+  pinMode(M2RPWM, OUTPUT);
+  pinMode(M2LPWM, OUTPUT);
+  irServo.attach(SERVO_PIN);
+  
+  digitalWrite(Engine_Pin, LOW);
+  digitalWrite(Light_Pin, HIGH);
+}
+
+void loop() {
+  if (Serial.available() > 0) {
+    char charCommand = Serial.read();
+    if (charCommand == ';') {
+      if (bufferCommand.length() > 0) {
+        process();
+      }
+      bufferCommand = "";  // Reset buffer after processing command
+    } else {
+      bufferCommand += charCommand;
+    }
+  }
+
+  servoTurn();
+}
+
+void servoTurn(){
+  unsigned long currentMillis = millis();
+  if (currentMillis - prevServoMillis >= SERVO_INTERVAL) {
+    prevServoMillis = currentMillis;
+
+    pos += step;
+
+    irServo.write(pos);
+
+    if (pos <= 0 || pos >= 180) {
+      step = -step;
+    }
+  }
+}
+
+void process()
+{
+  if (bufferCommand.length() < 2) {
+    Serial.println("Invalid Command");
+    return;
+  }
+
+  char commandCode = bufferCommand[0];
+  bufferCommand.trim();
+  bufferCommand = bufferCommand.substring(1);
+  
+  int param = bufferCommand.toInt();
+  
+  if (commandCode == 'S') {
+    speed = (byte)map(param, 0, 100, 0, 255);
+  } else if (commandCode == 'H') {
+    horizontalDrive = (byte)param;
+    drive();
+  } else if (commandCode == 'V') {
+    verticalDrive = (byte)param;
+    drive();
+  } else if (commandCode == 'L') {
+    if(param == 1){
+      lights(true);
+    }else if (param == 0){
+      lights(false);
+    }
+  } else {
+    Serial.println("Invalid Command");
+  }
+}
+
+
+void drive()
+{
+  if (horizontalDrive != 0) {
+    if (verticalDrive == 1 && horizontalDrive == 1) {
+      starboardAhead();
+    } else if (verticalDrive == 1 && horizontalDrive == 2) {
+      portAhead();
+    }
+  } else {
+    if (verticalDrive == 1) {
+      ahead();
+    } else if (verticalDrive == 2) {
+      stern();
+    }else{
+      stop();
+    }
+  }
+}
+
+void ahead()
+{
+  digitalWrite(M1RPWM, HIGH);
+  digitalWrite(M1LPWM, LOW);
+  digitalWrite(M2RPWM, LOW);
+  digitalWrite(M2LPWM, HIGH);
+
+  analogWrite(M1RPWM, speed);
+  analogWrite(M2LPWM, speed);
+}
+
+void stern()
+{
+  digitalWrite(M1RPWM, LOW);
+  digitalWrite(M1LPWM, HIGH);
+  digitalWrite(M2RPWM, HIGH);
+  digitalWrite(M2LPWM, LOW);
+
+  analogWrite(M1LPWM, speed);
+  analogWrite(M2RPWM, speed);
+}
+
+void starboardAhead()
+{
+  digitalWrite(M1RPWM, LOW);
+  digitalWrite(M1LPWM, HIGH);
+  digitalWrite(M2RPWM, LOW);
+  digitalWrite(M2LPWM, HIGH);
+
+  analogWrite(M1LPWM, speed);
+  analogWrite(M2LPWM, speed);
+}
+
+void portAhead()
+{
+  digitalWrite(M1RPWM, HIGH);
+  digitalWrite(M1LPWM, LOW);
+  digitalWrite(M2RPWM, HIGH);
+  digitalWrite(M2LPWM, LOW);
+
+  analogWrite(M1RPWM, speed);
+  analogWrite(M2RPWM, speed);
+}
+
+void stop() {
+  digitalWrite(M1RPWM, LOW);
+  digitalWrite(M1LPWM, LOW);
+  digitalWrite(M2RPWM, LOW);
+  digitalWrite(M2LPWM, LOW);
+  
+  analogWrite(M1RPWM, 0);
+  analogWrite(M1LPWM, 0);
+  analogWrite(M2RPWM, 0);
+  analogWrite(M2LPWM, 0);
+
+}
+
+
+void engine(bool isEngineOn)
+{
+  digitalWrite(Engine_Pin, isEngineOn ? LOW : HIGH);
+}
+
+void lights(bool isLightsOn)
+{
+  digitalWrite(Light_Pin, isLightsOn ? LOW : HIGH);
+}
