@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/controller"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadeScrollbars="true"
+    android:keepScreenOn="true"
+    android:orientation="vertical"
+    tools:context=".Controller">
+
+    <WebView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5" />
+
+    <!--  DETAILS  -->
+    <!--  TOGGLE BUTTONS  -->
+    <LinearLayout
+        android:id="@+id/DeviceInfo"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:background="#666666"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.147"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/Latitude"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/latitude"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/Longitude"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/longitude"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/WaterLvl"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/water_level"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/IRSensor"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/ir_sensor"
+            android:textColor="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ToggleGrp"
+        android:layout_width="44dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="44dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/AudioBtn"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="5dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/audio_off" />
+
+        <ImageView
+            android:id="@+id/MicBtn"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="5dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/mic_off_white" />
+
+        <ImageView
+            android:id="@+id/LightBtn"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="5dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/light_off" />
+    </LinearLayout>
+
+    <!-- RUDDERS  -->
+    <LinearLayout
+        android:id="@+id/RudderGrp"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="296dp"
+        android:orientation="horizontal"
+        app:flow_horizontalAlign="center"
+        app:flow_verticalAlign="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.92"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/RudderLeft"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="25dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/left_rudder" />
+
+        <ImageView
+            android:id="@+id/RudderRight"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="10dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/right_rudder" />
+    </LinearLayout>
+
+    <!-- GEAR CONTROL  -->
+    <LinearLayout
+        android:id="@+id/GearGrp"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="296dp"
+        android:orientation="horizontal"
+        app:flow_horizontalAlign="center"
+        app:flow_verticalAlign="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.143"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/GearBtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="25dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/forward" />
+
+    </LinearLayout>
+
+    <!--  THROTTLE CONTROL  -->
+    <LinearLayout
+        android:id="@+id/ThrottleGrp"
+        android:layout_width="44dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="76dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/ThrottleUp"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="15dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/add" />
+
+        <TextView
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="15dp"
+            android:text="0%"
+            android:textAlignment="center"
+            android:textSize="24dp" />
+
+        <ImageView
+            android:id="@+id/ThrottleDown"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="15dp"
+            android:background="#113547"
+            android:padding="8dp"
+            app:srcCompat="@drawable/minus" />
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
