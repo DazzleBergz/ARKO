@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823968137794",
+    "firebase_url": "https://arko-uno-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arko-uno",
+    "storage_bucket": "arko-uno.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823968137794:android:426daf9dc82228a4b0a3db",
+        "android_client_info": {
+          "package_name": "com.ucc_bsit_4b.ARKO"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgtf8AiJ6DVREBcgcFkeMlU73NOQyal68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

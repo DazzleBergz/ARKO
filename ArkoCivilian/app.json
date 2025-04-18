@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Arko",
+    "slug": "Arko",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/arko_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ucc_bsit_4b.ARKO"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/arko-logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "mode": "production" ,
+          "icon": "./assets/images/arko_icon.png",
+          "color": "#ffffff"
+        }
+      ]
+      
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d08a62d0-4b40-4f36-849a-0ddeb90227e4"
+      }
+    }
+  }
+}
