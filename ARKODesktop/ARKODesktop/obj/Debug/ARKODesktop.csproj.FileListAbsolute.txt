@@ -1,0 +1,654 @@
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Dashboard.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operations.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CopyComplete
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENCIO\source\repos\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Dashboard.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CopyComplete
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Documents\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CopyComplete
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UserCreation.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UserCreation.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.ThrottleControl.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+C:\Users\Charles\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Map.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Map.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.frmNotification.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesk.B7E2F01A.Up2Date
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Resource1.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Login.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ForgotPassword.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.UserProfile.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_device.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_user.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ChangeEmail.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.RescueInfo.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UpdateStatus.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.SignUp.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.StartUp.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreationFields.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreation.resources
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.dll
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.xml
+C:\Users\SENCIO\Documents\GitHub\arkoDT\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.CustomMessageBox.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\AForge.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\AForge.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.xml
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.CustomMessageBox.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Resource1.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ChangeEmail.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.RescueInfo.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UpdateStatus.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.SignUp.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.StartUp.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.UserProfile.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_device.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_user.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreationFields.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ForgotPassword.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Login.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Map.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.frmNotification.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreation.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesk.B7E2F01A.Up2Date
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Desktop\Backup\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\AForge.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\AForge.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.xml
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.CustomMessageBox.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Resource1.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ChangeEmail.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.RescueInfo.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UpdateStatus.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.SignUp.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.StartUp.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.UserProfile.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_device.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_user.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreationFields.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ForgotPassword.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Login.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Map.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.frmNotification.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreation.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesk.B7E2F01A.Up2Date
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+C:\Users\SENCIO\Desktop\Backup 1\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\ArkoDB.db
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe.config
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.exe
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\ARKODesktop.pdb
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\AForge.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Dapper.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.Core.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsForms.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\GMap.NET.WindowsPresentation.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\MetroFramework.Fonts.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.EF6.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.Linq.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\websocket-sharp-core.dll
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\AForge.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\AForge.Video.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Dapper.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\EntityFramework.SqlServer.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\InTheHand.Net.Personal.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Microsoft.Win32.Registry.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Asio.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Core.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Midi.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.Wasapi.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinForms.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\NAudio.WinMM.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\Newtonsoft.Json.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\PrettyMessageBox.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Buffers.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SqlClient.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Data.SQLite.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Device.Gpio.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.IO.Pipelines.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Memory.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Net.Http.Json.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Numerics.Vectors.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Security.AccessControl.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Security.Principal.Windows.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Encodings.Web.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Text.Json.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\Project\ARKODesktop\ARKODesktop\bin\Debug\System.ValueTuple.xml
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.AssemblyReference.cache
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.CustomMessageBox.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.EntryForm.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Resource1.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ChangeEmail.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.RescueInfo.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.UpdateStatus.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.SignUp.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.StartUp.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.UserProfile.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_device.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Components.ChangePassword_user.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Component.ManageWifi.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreationFields.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Operations.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Properties.Resources.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.ForgotPassword.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Login.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Map.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.frmNotification.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.OperatorCreation.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Devices.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.Views.Operation.resources
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.GenerateResource.cache
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.csproj.CoreCompileInputs.cache
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesk.B7E2F01A.Up2Date
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.exe
+S:\Project\ARKODesktop\ARKODesktop\obj\Debug\ARKODesktop.pdb

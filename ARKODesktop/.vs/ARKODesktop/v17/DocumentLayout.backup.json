@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Project\\ARKODesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|s:\\project\\arkodesktop\\arkodesktop\\controller\\bluetoothcomms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\controller\\bluetoothcomms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\views\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\views\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\views\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\views\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|S:\\Project\\ARKODesktop\\arkodesktop\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC78D900-E7B6-47CD-975A-1B1ABD31CDB2}|ARKODesktop\\ARKODesktop.csproj|solutionrelative:arkodesktop\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BluetoothComms.cs",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\Controller\\BluetoothComms.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\Controller\\BluetoothComms.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\Controller\\BluetoothComms.cs",
+              "RelativeToolTip": "ARKODesktop\\Controller\\BluetoothComms.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:59:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryForm.cs",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\EntryForm.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\EntryForm.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\EntryForm.cs",
+              "RelativeToolTip": "ARKODesktop\\EntryForm.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:51:23.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryForm.cs [Design]",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\EntryForm.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\EntryForm.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\EntryForm.cs [Design]",
+              "RelativeToolTip": "ARKODesktop\\EntryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:50:23.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Devices.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\Views\\Devices.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Devices.cs",
+              "RelativeToolTip": "ARKODesktop\\Views\\Devices.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAswNwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:59:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Devices.cs [Design]",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Devices.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\Views\\Devices.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Devices.cs [Design]",
+              "RelativeToolTip": "ARKODesktop\\Views\\Devices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:54:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\Views\\Login.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Login.cs",
+              "RelativeToolTip": "ARKODesktop\\Views\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:20:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "ARKODesktop\\Views\\Login.cs",
+              "ToolTip": "S:\\Project\\ARKODesktop\\ARKODesktop\\Views\\Login.cs [Design]",
+              "RelativeToolTip": "ARKODesktop\\Views\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:21:02.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
